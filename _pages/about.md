@@ -24,4 +24,3 @@ In the future, I hope to continue to pursue my interests and explore more unknow
 Thank you for visiting my personal page! If you have any questions about my interests or ideas, or would like to communicate and collaborate, please feel free to contact me at [Contact]. I look forward to sharing more stories and insights with you and hope to meet you face-to-face at some point in the future.
 
 Thanks again for stopping by and have a great day!
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
