@@ -22,9 +22,9 @@ repository               : "ILoveScratch2/ilovescratch2.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "I Love Scratch"
+  pronouns         : "he/him"  
+  bio              : ""
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
