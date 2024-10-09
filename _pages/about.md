@@ -21,6 +21,6 @@ I have always believed in the importance of lifelong learning in my life. Whethe
 In the future, I hope to continue to pursue my interests and explore more unknown areas. I believe that every experience is an opportunity for growth, and every relationship is a treasure to be cherished.
 
 ## Contact Me
-Thank you for visiting my personal page! If you have any questions about my interests or ideas, or would like to communicate and collaborate, please feel free to contact me at [Contact]. I look forward to sharing more stories and insights with you and hope to meet you face-to-face at some point in the future.
+Thank you for visiting my personal page! If you have any questions about my interests or ideas, or would like to communicate and collaborate, please feel free to contact me at django20233@outlook.com . I look forward to sharing more stories and insights with you and hope to meet you face-to-face at some point in the future.
 
 Thanks again for stopping by and have a great day!
