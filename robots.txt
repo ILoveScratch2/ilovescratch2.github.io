@@ -1,0 +1,6 @@
+# robots.txt for ILoveScratch2's Homepage
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://ilovescratch.us.ci/sitemap.xml
